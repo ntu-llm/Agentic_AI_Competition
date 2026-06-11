@@ -100,12 +100,12 @@ Projects will be assessed based on both the proposal quality and the final proto
 Other teams will receive participation certificate.
 
 ## 6. Organizers
-- Nanyang Technological University, Singapore
+- Nanyang Technological University
 - Tsinghua University
 - Shandong University
 - Xinjiang University
 - The University of British Columbia
-- Alibaba.com
+- Alibaba Group
 
 ### Contact
 [Xu Guo](https://guoxuxu.github.io/) (Email: xu.guo@ntu.edu.sg)
