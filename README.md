@@ -1,11 +1,11 @@
-# 📢 Agentic AI Competition Documentation
+# 📢 Agentic AI Competition 
 
 **Build Your Ideas for Real-World Impact**  
 **[ICCSE 2026](http://iccse2026.crowdscience.org/) | 8-12 July 2026 | Urumqi, Xinjiang**
 
 ## 1. Competition Overview
 
-The **Agentic AI Competition** is part of **ICCSE 2026: The 9th International Conference on Crowd Science and Engineering**. The competition aims to encourage students, engineers, and researchers to design agentic copilots that can assist with meaningful real-world tasks. Unlike a single-answer chatbot challenge, this competition focuses on systems that can understand a user goal, plan steps, use appropriate tools or skills, coordinate information, and support users through a complete task workflow.
+The **[Agentic AI Competition](http://iccse2026.crowdscience.org/competition/)** is part of **[ICCSE 2026: The 9th International Conference on Crowd Science and Engineering](http://iccse2026.crowdscience.org/)**. The competition aims to encourage students, engineers, and researchers to design agentic copilots that can assist with meaningful real-world tasks. Unlike a single-answer chatbot challenge, this competition focuses on systems that can understand a user goal, plan steps, use appropriate tools or skills, coordinate information, and support users through a complete task workflow.
 
 The competition adopts a staged **idea-to-demo** format: teams first submit a proposal describing a real-world problem and an agentic copilot solution. From all submitted proposals, a shortlist of **10 teams** will be selected to receive cloud development vouchers. Shortlisted teams will develop prototypes and present their final systems at the conference for an on-site showcase and competition.
 
