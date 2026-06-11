@@ -1,4 +1,4 @@
-# Agentic AI Competition Documentation
+# 📢 Agentic AI Competition Documentation
 
 **Build Agentic Copilots for Real-World Impact**  
 **ICCSE 2026 | 8-12 July 2026 | Urumqi, Xinjiang**
@@ -41,7 +41,7 @@ The following examples illustrate the expected level of task specificity. Teams 
 
 | Phase | Deadline | Description |
 |---|---|---|
-| Stage 1: Proposal Submission | 18 June 2026 | Teams submit a proposal of no more than 2 pages, excluding references. |
+| 🔥 Stage 1: Proposal Submission | 18 June 2026 | Teams submit a proposal of no more than 3 pages, excluding references. |
 | Shortlist Notification | 22 June 2026 | Ten shortlisted teams are selected from all proposals and invited to the development stage. |
 | Stage 2: Agentic Copilot Development | 22 June - 6 July 2026 | Shortlisted teams develop their prototypes. Development vouchers will be provided to support cloud-based implementation. |
 | Video Submission Deadline | 6 July 2026 | Teams unable to attend in person must submit a final showcase video by this date. |
@@ -58,7 +58,7 @@ The following examples illustrate the expected level of task specificity. Teams 
 
 ### Proposal Requirements
 
-- **Length:** No more than **2 pages**, excluding references if any.
+- **Length:** No more than **3 pages**, excluding references if any.
 - **Content:** The proposal should describe the motivation, task, problem, agentic copilot design, planned skills, final presentation format, and expected impact.
 - **Originality:** Teams should propose their own scenario and solution. The proposal may reference existing tools, datasets, or platforms, but the final copilot should show original design and implementation.
 
@@ -85,4 +85,18 @@ Projects will be assessed based on both the proposal quality and the final proto
 |---|---:|---:|
 | Gold Prize | 1 | SGD 1000 |
 | Silver Prize | 2 | SGD 600 each |
-| Bronze Prize | 3 | SGD 300 each |
+| Bronze Prize | 2 | SGD 300 each |
+
+Other teams will receive participation certificate.
+
+
+## 6. Organizers
+- Nanyang Technological University, Singapore
+- Tsinghua University
+- Shandong University
+- Xinjiang University
+- The University of British Columbia
+- Alibaba.com
+
+### Contact
+[Xu Guo](https://guoxuxu.github.io/) (Email: xu.guo@ntu.edu.sg)
